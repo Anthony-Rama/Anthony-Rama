@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 💻 I have expernce in **Full-Stack Development**
+- 💻 I have experience in **Full-Stack Development**
 
 - 📫 Contact me at **anthonyhrama@gmail.com**
 
