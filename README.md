@@ -4,6 +4,8 @@
 
 - 📍 I'm from **NYC**
 
+- 🎓 I attend Hofstra Univerity and will be graduating **May 2024**
+
 - 🔭 I’m currently working on **Senior Design Project!**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
@@ -17,7 +19,7 @@
 <a href="https://linkedin.com/in/anthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyrama" height="30" width="40" /></a>
 <a href="https://instagram.com/theanthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theanthonyrama" height="30" width="40" /></a>
 <a href="https://twitter.com/theanthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theanthonyrama" height="30" width="40" /></a>
-<a href="https://discord.gg/http://discordapp.com/users/965476662106005514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/965476662106005514" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/965476662106005514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
