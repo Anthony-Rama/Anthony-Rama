@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me **anthonyhrama@gmail.com**
+- 📫 Contact me at **anthonyhrama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
