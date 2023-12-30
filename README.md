@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 💬 Ask me about **Full-Stack Development**
+- 💻 I have expernce in **Full-Stack Development**
 
 - 📫 Contact me at **anthonyhrama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/theanthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theanthonyrama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyrama" height="30" width="40" /></a>
 <a href="https://instagram.com/theanthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theanthonyrama" height="30" width="40" /></a>
+<a href="https://twitter.com/theanthonyrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theanthonyrama" height="30" width="40" /></a>
 <a href="https://discord.gg/http://discordapp.com/users/965476662106005514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/965476662106005514" height="30" width="40" /></a>
 </p>
 
