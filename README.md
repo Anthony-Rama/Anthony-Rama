@@ -4,13 +4,13 @@
 
 - 🚶🏽‍♂️ My name is **Anthony Rama**
 
-- 📍 I'm from **NYC**
+- 📍 I'm from **NYC** 
 
-- 🎓 I attend Hofstra Univerity and will be graduating **May 2024**
+- 🎓 I attend Hofstra Univerity and will be graduating with my Bachelor of Science in Computer Science in **May 2024**
 
-- 🔭 I’m currently working on my **Senior Design Project**
+- 🔭 I’m currently building a mobile application that will connect and control a rock climbing board for my **Senior Design Project** 
 
-- 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning** 
 
 - 💻 I have experience in **Full-Stack Development**
 
