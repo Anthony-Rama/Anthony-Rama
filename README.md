@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋🏽</h1>
 <h3 align="center">Senior Computer Science Student @ Hofstra University | Artificial Intelligence Engineer Intern | Previously Full Stack Software Engineer Intern | Seeking Software Engineer Positions</h3>
-<img align = "right" alt = "Coding" width = "450" src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🚶🏽‍♂️ My name is **Anthony Rama**
 
@@ -8,7 +8,7 @@
 
 - 🎓 I attend Hofstra Univerity and will be graduating with my Bachelor of Science in Computer Science in **May 2024**
 
-- 🔭 I’m currently building a mobile application that will connect and control a rock climbing board for my **Senior Design Project** 
+- 🔭 I’m currently building a mobile application that will welcome and connect all climbers of all skill level to the sport for my **Senior Design Project** 
 
 - 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning** 
 
