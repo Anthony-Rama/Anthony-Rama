@@ -6,9 +6,9 @@
 
 - 🎓 I attend Hofstra Univerity and will be graduating **May 2024**
 
-- 🔭 I’m currently working on **Senior Design Project!**
+- 🔭 I’m currently working on my **Senior Design Project**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning**
 
 - 💻 I have experience in **Full-Stack Development**
 
