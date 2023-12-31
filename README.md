@@ -8,7 +8,7 @@
 
 - 🎓 I attend Hofstra Univerity and will be graduating with my Bachelor of Science in Computer Science in **May 2024**
 
-- 🔭 I’m currently building a mobile application that will welcome and connect all climbers of all skill level to the sport for my **Senior Design Project** 
+- 🔭 I’m currently working on my **Senior Design Project** 
 
 - 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning** 
 
