@@ -8,7 +8,7 @@
 
 - 🎓 I attend Hofstra Univerity and will be graduating with a Bachelor of Science in Computer Science in **December 2024**
 
-- 🔭 I’m currently working on my **Senior Design Project** 
+- 🔭 I’m currently working on my **Personal Project** 
 
 - 🌱 I’m currently learning about **Artificial Intelligence & Machine Learning** 
 
