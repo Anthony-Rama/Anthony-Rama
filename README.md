@@ -6,7 +6,7 @@
 
 - 📍 I'm from **NYC** 
 
-- 🎓 I attend Hofstra Univerity and will be graduating with a Bachelor of Science in Computer Science in **May 2024**
+- 🎓 I attend Hofstra Univerity and will be graduating with a Bachelor of Science in Computer Science in **December 2024**
 
 - 🔭 I’m currently working on my **Senior Design Project** 
 
