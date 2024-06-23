@@ -1,12 +1,14 @@
 <h1 align="center">Hello World!👋🏽</h1>
-<h3 align="center">Senior Computer Science Student @ Hofstra University | Previously Full Stack/Artificial Intelligence Software Engineer Intern | Seeking New Grad/Entry Level Software Engineer Positions</h3>
+<h3 align="center">Software Developer - Information Delivery Consultant @ Accordant Company, LLC | Computer Science Graduate May 2024 @ Hofstra University</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🚶🏽‍♂️ My name is **Anthony Rama**
 
 - 📍 I'm from **NYC** 
 
-- 🎓 I attend Hofstra Univerity and will be graduating with a Bachelor of Science in Computer Science in **December 2024**
+- 🎓 I attend Hofstra Univerity and recently graduated with a Bachelor of Science in Computer Science in **May 2024**
+
+- 👨🏾‍💻 I currently work as a **Software Developer - Information Delivery Consultant** at Accordant Company LLC
 
 - 🔭 I’m currently working on my **Personal Project** 
 
