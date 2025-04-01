@@ -6,9 +6,9 @@
 
 - 📍 I'm from **NYC** 
 
-- 🎓 I attend Hofstra Univerity and recently graduated with a Bachelor of Science in Computer Science in **May 2024**
+- 🎓 I attended Hofstra Univerity and recently graduated with a Bachelor of Science in Computer Science in **May 2024**
 
-- 👨🏾‍💻 I previously worked as a **Software Developer - Information Delivery Consultant** at Accordant Company LLC
+- 👨🏾‍💻 I previously worked as a **Software Developer** at Accordant Company, LLC
 
 - 🔭 I’m currently working on my **Personal Project** 
 
