@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!👋🏽</h1>
-<h3 align="center">Software Developer - Information Delivery Consultant @ Accordant Company, LLC | Computer Science Graduate May 2024 @ Hofstra University</h3>
+<h3 align="center">Prev Software Developer @ Accordant Company, LLC | Computer Science Graduate 2024 @ Hofstra University</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🚶🏽‍♂️ My name is **Anthony Rama**
@@ -8,7 +8,7 @@
 
 - 🎓 I attend Hofstra Univerity and recently graduated with a Bachelor of Science in Computer Science in **May 2024**
 
-- 👨🏾‍💻 I currently work as a **Software Developer - Information Delivery Consultant** at Accordant Company LLC
+- 👨🏾‍💻 I previously worked as a **Software Developer - Information Delivery Consultant** at Accordant Company LLC
 
 - 🔭 I’m currently working on my **Personal Project** 
 
